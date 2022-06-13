@@ -1,0 +1,61 @@
+Id;Nome_raw;Sexo;índole;mes_aparicao;ano_aparicao;Nome;Alcunha;Nome_Edit;Nome_grupo
+/Spider-Man_(Peter_Parker);Spider-Man (Peter Parker);Masc;Good Characters;Agosto;1962;Peter Parker;Homem-Aranha;Marvel Comics;Vingadores
+/Captain_America_(Steven_Rogers);Captain America (Steven Rogers);Masc;Good Characters;Março;1941;Steven Rogers;Capitao America;Marvel Comics;Vingadores
+/Wolverine_(James_%22Logan%22_Howlett);"Wolverine (James ""Logan"""" Howlett)""";Masc;Neutral Characters;Outubro;1974;"James ""Logan"" Howlett";Wolverine;Marvel Comics;X-Men
+/Iron_Man_(Anthony_%22Tony%22_Stark);"Iron Man (Anthony ""Tony"""" Stark)""";Masc;Good Characters;Março;1963;"Anthony ""Tony"" Stark";Homem de Ferro;Marvel Comics;Vingadores
+/Thor_(Thor_Odinson);Thor (Thor Odinson);Masc;Good Characters;Novembro;1950;Thor Odinson;Thor;Marvel Comics;Vingadores
+/Hulk_(Robert_Bruce_Banner);Hulk (Robert Bruce Banner);Masc;Good Characters;Maio;1962;Roberts Bruce Banner;Hulk;Marvel Comics;Vingadores
+/Scott_Summers_(Earth-616);Scott Summers (Earth-616);Masc;Neutral Characters;Setembro;1963;Scott Summers;Ciclope;Marvel Comics;X-Men
+/Clinton_Barton_(Earth-616);Clinton Barton (Earth-616);Masc;Good Characters;Setembro;1964;Clinton Barton;Gaviao Arqueiro;Marvel Comics;Vingadores
+/Stephen_Strange_(Earth-616);Stephen Strange (Earth-616);Masc;Good Characters;Julho;1963;Stephen Strange;Dr. Estranho;Marvel Comics;Illuminatti
+/Charles_Xavier_(Earth-616);Charles Xavier (Earth-616);Masc;Good Characters;Setembro;1963;Charles Xavier;Professor X;Marvel Comics;X-Men
+/Wanda_Maximoff_(Earth-616);Wanda Maximoff (Earth-616);Fem;Good Characters;Março;1964;Wanda Maximoff;Feiticeira Escarlate;Marvel Comics;Vingadores
+/Natalia_Romanova_(Earth-616);Natalia Romanova (Earth-616);Fem;Good Characters;Abril;1964;Natalia Romanova;Viuva Negra;Marvel Comics;Vingadores
+/Carol_Danvers_(Earth-616);Carol Danvers (Earth-616);Fem;Good Characters;Março;1968;Carol Danvers;Capita Marvel;Marvel Comics;Vingadores
+/Pietro_Maximoff_(Earth-616);Pietro Maximoff (Earth-616);Masc;Good Characters;Março;1964;Pietro Maximoff;Mercurio;Marvel Comics;Vingadores
+/Max_Eisenhardt_(Earth-616);Max Eisenhardt (Earth-616);Masc;Neutral Characters;Setembro;1963;Max Eisenhardt;Magneto;Marvel Comics;Irmandade de Mutantes
+/Norman_Osborn_(Earth-616);Norman Osborn (Earth-616);Masc;Bad Characters;Julho;1964;Norman Osborn ;Duende Verde;Marvel Comics;Sexteto Sinistro
+/James_Buchanan_Barnes_(Earth-616);James Buchanan Barnes (Earth-616);Masc;Good Characters;Março;1941;James Buchanan Barnes;Soldado Invernal;Marvel Comics;Novos Vingadores
+/Loki_Laufeyson_(Earth-616);Loki Laufeyson (Earth-616);Fluido;Neutral Characters;Agosto;1949;Loki Laufeyson;Loki;Marvel Comics;Conselho Negro
+/Galactus_(Earth-616);Galactus (Earth-616);Masc;Neutral Characters;Março;1966;Galactus;Galactus;Marvel Comics;Eternity Watch
+/Gwendolyne_Stacy_(Earth-616);Gwendolyne Stacy (Earth-616);Fem;Good Characters;Dezembro;1965;Gwendolyne Stacy;Null;Marvel Comics;New U Technologies
+/Thanos_(Earth-616);Thanos (Earth-616);Masc;Bad Characters;Fevereiro;1973;Thanos ;Thanos;Marvel Comics;Eternos
+/Gamora_(Earth-616);Gamora (Earth-616);Fem;Neutral Characters;Junho;1975;Gamora;Gamora;Marvel Comics;Guardioes da Galaxia
+/Helmut_Zemo_(Earth-616);Helmut Zemo (Earth-616);Masc;Bad Characters;Dezembro;1973;Helmut Zemo;Barao Zemo;Marvel Comics;Hydra
+/Ultron_(Earth-616);Ultron (Earth-616);Masc;Bad Characters;Julho;1968;Ultron;Ultron;Marvel Comics;Mestres do Mal
+/Quentin_Beck_(Earth-616);Quentin Beck (Earth-616);Masc;Bad Characters;Junho;1964;Quentin Beck;Misterio;Marvel Comics;Sexteto Sinistro
+/Peter_Quill_(Earth-616);Peter Quill (Earth-616);Masc;Good Characters;Janeiro;1976;Peter Quill;Senhor das Estrelas;Marvel Comics;Guardioes da Galaxia
+/Emil_Blonsky_(Earth-616);Emil Blonsky (Earth-616);Masc;Bad Characters;Abril;1967;Emil Blonsky;Abominavel;Marvel Comics;Thunderbolts
+/Erik_Killmonger_(Earth-616);Erik Killmonger (Earth-616);Masc;Bad Characters;Setembro;1973;Erik Killmonger;Killmonger;Marvel Comics;Culto da Pantera
+/Anton_Vanko_(Whiplash)_(Earth-616);Anton Vanko (Whiplash) (Earth-616);Masc;Bad Characters;Janeiro;1910;Anton Vanko;Chicote Negro;Marvel Comics;Thunderbolts
+/T%27Challa_(Earth-616);T'Challa (Earth-616);Masc;Good Characters;Julho;1966;T'Challa;Pantera Negra;Marvel Comics;Culto da Pantera
+/wiki/Batman_(Bruce_Wayne);Batman (Bruce Wayne);Masc;Good Characters;Maio;1939;Bruce Wayne;Batman;DC Comics;Liga da Justica
+/wiki/Superman_(Clark_Kent);Superman (Clark Kent);Masc;Good Characters;Outubro;1986;Clark Kent;Superman;DC Comics;Liga da Justica
+/wiki/Green_Lantern_(Hal_Jordan);Green Lantern (Hal Jordan);Masc;Good Characters;Outubro;1959;Hal Jordan;Lanterna Verde;DC Comics;Liga da Justica
+/wiki/Wonder_Woman_(Diana_Prince);Wonder Woman (Diana Prince);Fem;Good Characters;Dezembro;1941;Diana Prince;Mulher Maravilha;DC Comics;Liga da Justica
+/wiki/Aquaman_(Arthur_Curry);Aquaman (Arthur Curry);Masc;Good Characters;Novembro;1941;Arthur Curry;Aquaman;DC Comics;Liga da Justica
+/wiki/Timothy_Drake_(New_Earth);Timothy Drake (New Earth);Masc;Good Characters;Agosto;1989;Timothy Drake;Robin;DC Comics;Jovens Titas
+/wiki/Flash_(Barry_Allen);Flash (Barry Allen);Masc;Good Characters;Outubro;1956;Barry Allen;Flash;DC Comics;Liga da Justica
+/wiki/Barbara_Gordon_(New_Earth);Barbara Gordon (New Earth);Fem;Good Characters;Janeiro;1967;Barbara Gordon;Batgirl;DC Comics;Familia Batman
+/wiki/Alexander_Luthor_(New_Earth);Alexander Luthor (New Earth);Masc;Bad Characters;Outubro;1986;Alexander Luthor;Lex Luthor;DC Comics;Liga da Injustica
+/wiki/Kara_Zor-L_(Earth-Two);Kara Zor-L (Earth-Two);Fem;Good Characters;Fevereiro;1976;Kara Zor-L;Poderosa;DC Comics;Sociedade da Justica da America
+/wiki/John_Stewart_(New_Earth);John Stewart (New Earth);Masc;Good Characters;Dezembro;1971;John Stewart;Lanterna Verde;DC Comics;Liga da Justica
+/wiki/Joker_(New_Earth);Joker (New Earth);Masc;Bad Characters;Junho;1940;Null;Coringa;DC Comics;Liga da Injustica
+/wiki/Zatanna_Zatara_(New_Earth);Zatanna Zatara (New Earth);Fem;Good Characters;Novembro;1964;Zatanna Zatara;Zatanna;DC Comics;Liga da Justica
+/wiki/John_Constantine_(New_Earth);John Constantine (New Earth);Masc;Good Characters;Junho;1984;John Constantine;Null;DC Comics;Newcastle Crew
+/wiki/Lobo_(New_Earth);Lobo (New Earth);Masc;Neutral Characters;Junho;1983;Null;Lobo;DC Comics;Liga da Justica
+/wiki/Harvey_Dent_(New_Earth);Harvey Dent (New Earth);Masc;Bad Characters;Agosto;1942;Harvey Dent;Duas caras;DC Comics;Liga da Injustica
+/wiki/Thaal_Sinestro_(New_Earth);Thaal Sinestro (New Earth);Masc;Neutral Characters;Agosto;1961;Thaal Sinestro;Sinestro;DC Comics;Liga da Injustica
+/wiki/Floyd_Lawton_(New_Earth);Floyd Lawton (New Earth);Masc;Neutral Characters;Junho;1950;Floyd Lawton;Pistoleiro;DC Comics;Esquadrao Suicida
+/wiki/Amanda_Waller_(New_Earth);Amanda Waller (New Earth);Fem;Good Characters;Novembro;1986;Amanda Blake;Amanda Waller;DC Comics;Esquadrao Suicida
+/wiki/Gorilla_Grodd_(New_Earth);Gorilla Grodd (New Earth);Masc;Bad Characters;Maio;1959;Grodd;Gorilla Grodd;DC Comics;Liga da Injustica
+/wiki/Bane_(New_Earth);Bane (New Earth);Masc;Bad Characters;Janeiro;1993;Null;Bane;DC Comics;Esquadrao Suicida
+/wiki/Harleen_Quinzel_(New_Earth);Harleen Quinzel (New Earth);Fem;Bad Characters;Outubro;1999;Harleen Quinzel;Arlequina;DC Comics;Liga da Justica da Anarquia
+/wiki/Ares_(New_Earth);Ares (New Earth);Masc;Bad Characters;Fevereiro;1987;Ares;Ares;DC Comics;Deuses do Olimpo
+/wiki/Black_Manta_(New_Earth);Black Manta (New Earth);Masc;Bad Characters;Outubro;1967;David;Arraia Negra;DC Comics;Liga da Injustica
+/wiki/Amazo_(New_Earth);Amazo (New Earth);Masc;Bad Characters;Julho;1960;Amazo;Amazo;DC Comics;Sociedade Secreta de Super Viloes
+/wiki/Trigon_(New_Earth);Trigon (New Earth);Masc;Bad Characters;Março;1981;Trigon;Trigon;DC Comics;Sexteto Secreto
+/wiki/Dru-Zod_II_(New_Earth);Dru-Zod II (New Earth);Masc;Bad Characters;Abril;1961;Dru-Zod II;General Zod;DC Comics;Criminosos da zona fantasma
+/wiki/Starfire_(New_Earth);Starfire (New Earth);Fem;Good Characters;Setembro;1976;Starfire;Estelar;DC Comics;Jovens Titas
+/wiki/Green_Arrow_(Oliver_Queen);Green Arrow (Oliver Queen);Masc;Good Characters;Novembro;1941;Oliver Queen;Arqueiro Verde;DC Comics;Liga da Justica
+/wiki/J%27onn_J%27onzz_(New_Earth);J'onn J'onzz (New Earth);Masc;Good Characters;Novembro;1955;J'onn J'onzz;Cacador de Marte;DC Comics;Liga da Justica
